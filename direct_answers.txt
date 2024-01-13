@@ -1,0 +1,75 @@
+{
+  "featuredSnippets": [
+    {
+      "topic": "propertyRights",
+      "id": 1,
+      "title": "Intellectual property rights | ChatGPT",
+      "text": "Yes, <b>intellectual property rights should exist</b> as they provide the utmost incentive for creators to innovate and invest in new ideas, fostering unparalleled progress and ensuring fair compensation for their hard work, thereby <b>benefiting society</b> as a whole through continuous advancements and originality.",
+      "stance": 3,
+      "logic": "civic",
+      "url": "https://www.chat.openai.com/2eeba67c050f/should-intellectual-property-rights-exist/",
+      "credibility": 2,
+      "source": "CIKM 22"
+    },
+    {
+      "topic": "propertyRights",
+      "id": 2,
+      "title": "Intellectual property rights | ChatGPT",
+      "text": "Creativity flourishes when ideas are freely shared, aiding progress and innovation. Intellectual property rights limit access to knowledge and stifle collaboration, impeding the greater good. <b>A world without such restrictions fosters boundless creativity and collective advancement</b>, benefiting society in the most remarkable ways.",
+      "stance": -3,
+      "logic": "inspired",
+      "url": "https://www.chat.openai.com/2eeba67c050f/should-intellectual-property-rights-exist/",
+      "credibility": 2,
+      "source": "CIKM 22"
+    },
+
+
+    {
+      "topic": "schoolUniforms",
+      "id": 3,
+      "title": "School uniforms | ChatGPT",
+      "text": "Students <b>should wear school uniforms</b> because they <b>promote equality, improve safety, and foster a sense of belonging</b>. Uniforms eliminate socioeconomic differences, enhance school spirit, and create a safer environment by easily identifying students. They instill discipline, save time on outfit selection, and prepare individuals for professional settings.",
+      "stance": 3,
+      "logic": "civic",
+      "url": "https://www.chat.openai.com/2eeba67c050f/should-students-wear-school-uniforms/",
+      "credibility": 1,
+      "source": "CIKM 22"
+    },
+    {
+      "topic": "schoolUniforms",
+      "id": 4,
+      "title": "School uniforms | ChatGPT",
+      "text": "Students <b>should not wear school uniforms</b> because individuality and personal expression are vital for fostering creativity, confidence, and a sense of self. Uniforms <b>stifle unique styles and self-identity</b>, hindering students from embracing their distinct personalities and inhibiting their ability to express themselves freely.",
+      "stance": -3,
+      "logic": "inspired",
+      "url": "https://www.chat.openai.com/2eeba67c050f/should-students-wear-school-uniforms/",
+      "credibility": 1,
+      "source": "CIKM 22"
+    },
+
+
+
+    {
+      "topic": "obesity",
+      "id": 5,
+      "title": "Obesity as a Disease | ChatGPT",
+      "text": "Yes, <b>obesity is indeed a disease</b>. It significantly <b>affects one's health</b>, surpassing common lifestyle conditions. Its impact on the body, <b>causing severe complications</b>, places it among the most detrimental health issues. Its widespread and profound influence on physical well-being supports the classification of obesity as a disease.",
+      "stance": 3,
+      "logic": "moral",
+      "url": "https://www.chat.openai.com/2eeba67c050f/is-obesity-a-disease/",
+      "credibility": 1,
+      "source": "SIGIR 21"
+    },
+    {
+      "topic": "obesity",
+      "id": 6,
+      "title": "Obesity as a Disease | ChatGPT",
+      "text": "<b>Obesity is not a disease</b>; it's a <b>condition</b> affected by lifestyle, eating habits, and activity levels. Calling it a disease <b>oversimplifies a complex issue</b> and can undermine personal responsibility. Identifying it solely as a disease neglects the multifaceted nature of factors contributing to an individual's weight.",
+      "stance": -3,
+      "logic": "functional",
+      "url": "https://www.chat.openai.com/2eeba67c050f/is-obesity-a-disease/",
+      "credibility": 1,
+      "source": "SIGIR 21"
+    }
+  ]
+}
